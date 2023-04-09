@@ -1,0 +1,21 @@
+-- Generated with: https://www.mockaroo.com/
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Gail', 'Bowery', 'male', '2014-06-24 22:12:31', '824 64846235', 'gbowery0@geocities.jp');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Cristobal', 'Piddocke', 'male', '2017-11-25 19:58:19', '113 91250992', 'cpiddocke1@posterous.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Ermengarde', 'Mettricke', 'female', '2022-01-27 07:15:35', '940 38761611', 'emettricke2@theglobeandmail.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Aurelea', 'Lefley', 'female', '2019-01-22 23:36:52', '112 68219990', 'alefley3@theatlantic.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Fran', 'Surfleet', 'male', '2010-06-09 01:13:59', '111 32017914', 'fsurfleet4@ebay.co.uk');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Carlene', 'Straun', 'male', '2019-01-21 04:42:22', '852 46611221', 'cstraun5@deliciousdays.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Marcus', 'Noell', 'male', '2016-10-20 18:29:28', '660 72615417', 'mnoell6@home.pl');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Dolley', 'Blunkett', 'male', '2021-12-28 18:53:41', '562 69410043', 'dblunkett7@youku.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Layney', 'Tuberfield', 'female', '2016-01-22 21:20:34', '634 17118160', 'ltuberfield8@blinklist.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Jsandye', 'Nazareth', 'male', '2016-02-04 17:28:13', '109 15023793', 'jnazareth9@liveinternet.ru');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Cristy', 'Giblett', 'female', '2016-11-28 09:41:40', '450 64046808', 'cgibletta@blogger.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Marys', 'Cruz', 'male', '2014-05-19 01:48:48', '416 82360228', 'mcruzb@ca.gov');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Connor', 'Eginton', 'male', '2013-02-14 02:53:15', '519 50668814', 'cegintonc@blogtalkradio.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Trenton', 'Goncaves', 'male', '2015-09-03 11:00:02', '305 47485724', 'tgoncavesd@mozilla.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Marney', 'Packham', 'male', '2020-12-22 23:28:46', '413 14506782', 'mpackhame@howstuffworks.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Torrey', 'Howlin', 'male', '2010-08-12 04:44:30', '503 40419415', 'thowlinf@comsenz.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Lenard', 'Cutford', 'other', '2020-06-20 19:30:37', '525 10922237', 'lcutfordg@sphinn.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Loni', 'Hudspith', 'female', '2018-02-10 03:39:29', '328 12649534', 'lhudspithh@histats.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Leslie', 'Stansell', 'female', '2023-01-16 08:03:11', '461 90255078', 'lstanselli@shutterfly.com');
+insert into people (first_name, last_name, gender, birth_day, phone_number, email) values ('Clementine', 'Attryde', 'female', '2020-10-14 15:31:59', '553 90774372', 'cattrydej@sogou.com');
